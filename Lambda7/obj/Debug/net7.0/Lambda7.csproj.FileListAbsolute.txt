@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Projetos\Lambda7\Lambda7\bin\Debug\net7.0\Lambda7.exe
+C:\Users\Guilherme\Projetos\Lambda7\Lambda7\bin\Debug\net7.0\Lambda7.deps.json
+C:\Users\Guilherme\Projetos\Lambda7\Lambda7\bin\Debug\net7.0\Lambda7.runtimeconfig.json
+C:\Users\Guilherme\Projetos\Lambda7\Lambda7\bin\Debug\net7.0\Lambda7.dll
+C:\Users\Guilherme\Projetos\Lambda7\Lambda7\bin\Debug\net7.0\Lambda7.pdb
+C:\Users\Guilherme\Projetos\Lambda7\Lambda7\obj\Debug\net7.0\Lambda7.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Projetos\Lambda7\Lambda7\obj\Debug\net7.0\Lambda7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Projetos\Lambda7\Lambda7\obj\Debug\net7.0\Lambda7.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Projetos\Lambda7\Lambda7\obj\Debug\net7.0\Lambda7.AssemblyInfo.cs
+C:\Users\Guilherme\Projetos\Lambda7\Lambda7\obj\Debug\net7.0\Lambda7.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Projetos\Lambda7\Lambda7\obj\Debug\net7.0\Lambda7.dll
+C:\Users\Guilherme\Projetos\Lambda7\Lambda7\obj\Debug\net7.0\refint\Lambda7.dll
+C:\Users\Guilherme\Projetos\Lambda7\Lambda7\obj\Debug\net7.0\Lambda7.pdb
+C:\Users\Guilherme\Projetos\Lambda7\Lambda7\obj\Debug\net7.0\Lambda7.genruntimeconfig.cache
+C:\Users\Guilherme\Projetos\Lambda7\Lambda7\obj\Debug\net7.0\ref\Lambda7.dll
